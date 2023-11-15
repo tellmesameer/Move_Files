@@ -7,7 +7,7 @@ Move Files is a simple PyQt5-based application for organizing files by moving th
 
 - Select a downloads folder.
 - Move images, documents, executable files, PDFs, Excel files, zip files, PPT files, video files, web files, and programming files to separate folders.
-- Display a confirmation dialog before moving files.
+- Display a confirmation dialogue before moving files.
 
 ## Getting Started
 
@@ -39,9 +39,6 @@ Move Files is a simple PyQt5-based application for organizing files by moving th
 
 Feel free to contribute to this project by opening issues or pull requests. Your feedback is appreciated!
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 ```
 
 You can copy and paste this content into a file named `README.md` in the root of your GitHub repository. Make sure to keep it updated as your project evolves.
