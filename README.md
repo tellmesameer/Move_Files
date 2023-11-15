@@ -2,6 +2,7 @@
 # Move Files
 
 Move Files is a simple PyQt5-based application for organizing files by moving them into specific folders based on their types.
+![image](https://github.com/sameer355u/Move_Files/assets/89124129/04fcb81f-67f2-47d3-8650-2beb0c0521e7)
 
 ## Features
 
