@@ -1,0 +1,7 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource prefix="/">
+    <file>icons/logo.png</file>
+    <file>icons/folder_icon.png</file>
+    <!-- Add other resource files here as needed -->
+</qresource>
+</RCC>
