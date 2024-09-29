@@ -1,3 +1,4 @@
+#ui\file_mover_ui.py
 from PySide6.QtCore import Qt, QSize
 from PySide6.QtGui import QIcon
 from PySide6.QtWidgets import (
