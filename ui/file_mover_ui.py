@@ -49,7 +49,7 @@ class FileMoverUI(QWidget):
         # Create and add buttons dynamically
         button_texts = [
             "Move Images", "Move Executables", "Move PDFs", "Move Excel Files",
-            "Move Zip Files", "Move Text Files", "Move Python Files", "Move Word Documents"
+            "Move Zip Files", "Move Text Files", "Move Python Files", "Move Word Documents","Move Video Files"
         ]
 
         row = 0
