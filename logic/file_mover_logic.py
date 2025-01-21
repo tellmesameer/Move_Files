@@ -16,7 +16,7 @@ class FileMoverLogic:
         # Define button information with additional categories
         self.button_info = {
             "Move Images": {
-                "extensions": ['.jpg', '.jpeg', '.png', '.gif', '.svg','.ico'],
+                "extensions": ['.jpg', '.jpeg', '.png', '.gif', '.svg','.ico','webp'],
                 "category": "Images"
             },
             "Move Executables": {
@@ -48,7 +48,7 @@ class FileMoverLogic:
                 "category": "Word Documents"
             },
             "Move Video Files": {
-                "extensions": ['.mkv','mp4'],
+                "extensions": ['.mkv','mp4','m4v','webm'],
                 "category": "Video Files"
             }
             # Add more categories here if needed
